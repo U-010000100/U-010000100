@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @U-010000100
 - 👀 I’m interested in making projects
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Python based projects
+- 🌱 I’m currently learning Python & Front-End Web Developoment
+- 💞️ I want to collaborate on Web-Pages and Python Based Projects
 - 📫 Contact : Ghostking4522@gmail.com , if I can reply you then ...
 
 <!---
